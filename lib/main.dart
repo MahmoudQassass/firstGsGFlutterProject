@@ -30,7 +30,7 @@ void main() async {
 }
 
 final double width = 392.72727272727275;
-final double height = 759.2727272727273;
+final double height = 759.272727272723;
 
 class MyApp extends StatefulWidget {
   @override
