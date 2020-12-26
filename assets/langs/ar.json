@@ -1,0 +1,48 @@
+{
+    "mainPage": "الصفحة الرئيسية", 
+    "sections": "الأقسام", 
+    "mainSections": "الأقسام الرئيسية", 
+    "products": "المنتجات", 
+    "farms": "المشاتل",
+    "lang": "اللغة",
+    "aboutApp": "عن التطبيق",
+    "terms": "الشروط والأحكام",
+    "contactUs": "اتصل بنا",
+    "register": "تسجيل حساب جديد",
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "acceptTerms": "أوافق على الأحكام والشروط",
+    "contactUsTitle": "عنوان الشكوى",
+    "ContactUsContent": "محتوى الرسالة",
+    "send": "إرسال",
+    "productDetails": "تفاصيل المنتج",
+    "skip": "تخطي",
+    "seplashRegister": "تسجيل",
+    "registerDetail": "يمكنك تسجيل عضوية مجاناً",
+    "stores": "المتاجر",
+    "customer": "العملاء",
+
+    "customerRegister": "تسجيل  العملاء",
+    "customerRegisterDetails": "يمكنك إنشاء حساب جديد مجاناَ من هنا",
+
+    "storeRegister": "تسجيل  المتاجر",
+    "storeRegisterDetails": "يمكنك تسجيل متجرك من هنا",
+    "companyName": "إسم الشركة",
+    "userName": "اسم المستخدم",
+    "storeLogo": "شعار المتجر",
+    "selectLocation": "حدد موقعك",
+    "companyType": "نشاط الشركة",
+    "save": "حفظ",
+    "back": "تراجع",
+
+
+    "account": "حسابي",
+    "messeges": "الرسائل",
+    "dashboard": "لوحة الإدارة",
+    "logout": "خروج",
+    "farm": "مشتل"
+
+
+}
