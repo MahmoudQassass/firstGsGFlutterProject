@@ -29,18 +29,19 @@ void main() async {
 //  runApp(MyApp());
 }
 
+final double width = 392.72727272727275;
+final double height = 759.2727272727273;
+
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
 
 class _MyAppState extends State<MyApp> {
-  final double width = 392.72727272727275;
-  final double hight = 759.2727272727273;
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
-      designSize: Size(width, hight),
+      designSize: Size(width, height),
       allowFontScaling: true,
       child: GetMaterialApp(
           localizationsDelegates:

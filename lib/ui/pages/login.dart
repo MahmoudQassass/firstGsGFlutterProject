@@ -33,12 +33,10 @@ class _LoginState extends State<Login> {
         formKey.currentState.save();
         Get.offAll(Account());
         //Get.offAll(Account());
-        // logger.d('user nama is $email, and password is $password');
-      } else {
-        return;
-      }
+
+      } else {}
     } else {
-      // logger.d('you have to accept out terms');
+      return 'this is requerd';
     }
   }
 
@@ -121,6 +119,7 @@ class _LoginState extends State<Login> {
                       SizedBox(
                         height: 20,
                       ),
+
                       CheckboxListTile(
                         title: Text(
                           translator.translate('acceptTerms'),
@@ -132,6 +131,7 @@ class _LoginState extends State<Login> {
                           });
                         },
                       ),
+
                       RaisedButton(
                           padding: EdgeInsets.symmetric(
                               horizontal: 130, vertical: 7),
